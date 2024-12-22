@@ -107,13 +107,13 @@ const NavBar = () => {
                   </a>
                 </div>
               </div>
-              <a href="#Contact">
+              <a href="https://drive.google.com/file/d/1OtZcYFxeCD6exvCVdzWQVcV5sYCbg-8a/view?usp=sharing">
                 <button
                   className={`border border-white rounded font-poppins text-lg text-white font-medium px-6 ml-5 whitespace-nowrap transition-colors hover:bg-[#1da1f2] hover:text-white hover:border-transparent ease-in-out duration-300 ${
                     scrolled ? 'py-3' : 'py-5'
                   } `}
                 >
-                  Let's Connect
+                  Download CV
                 </button>
               </a>
             </span>
