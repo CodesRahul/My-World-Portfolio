@@ -26,7 +26,7 @@ const FooterSec = () => {
         </div>
         <div className="rightfoot flex flex-col order-2 items-start msx:order-1">
           <h1 className="text-2xl font-centra font-bold tracking-[1px]">
-            Follow Me On
+            Follow Me
           </h1>
           <div className="mx-2xl flex flex-row justify-between mt-5">
             <a
